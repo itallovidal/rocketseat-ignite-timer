@@ -16,6 +16,15 @@ export const GlobalStyle = createGlobalStyle`
   body{
     background: ${({theme})=> theme["gray-900"]};
     color: ${({theme})=> theme["green-300"]};
+    display: flex;
+    height: 100vh;
+    justify-content: center;
+    align-items: center;
+  }
+  
+  #root{
+    max-width: 75rem;
+    width: 100%;
   }
   
   path{
