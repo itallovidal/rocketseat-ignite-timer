@@ -6,13 +6,12 @@ Certificado do módulo:
 
 https://app.rocketseat.com.br/certificates/ab8ce198-abf1-4f87-87d7-38ce9600570a
 
-# Como instalar
-Para instalar e confirgurar é simples, apenas instalar e começar a usar.
+# Setup
+Para utilizar é muito simples:
 
 ```bash
 npm i
 ```
-
 ```bash
 npm run dev
 ```
